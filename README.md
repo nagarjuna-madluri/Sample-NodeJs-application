@@ -7,4 +7,4 @@ Prerequesties to run the application
 1. Install Node Js – $sudo apt-get install nodejs
 2. Install npm package - $sudo apt-get install npm
 
-================== Wekocme to Node Js =================
+================== Welcome to Node Js =================
